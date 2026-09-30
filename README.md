@@ -1,6 +1,6 @@
 # IAW
 
-##Activitat 4: Creació de l'entorn Docker amb LAMP
+#Activitat 4: Creació de l'entorn Docker amb LAMP
 - l'Activitat 4 té objectiu crear un entorn LAMP amb contenidors Docker a un servidor Debian i poder accedir a una web i BBDD al navegador.
 
 ##Requisits per desenvolupar l'entorn
